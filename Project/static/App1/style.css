@@ -1,0 +1,24 @@
+.helptext{
+    display:none;
+}
+
+#register_form p{
+    display:block;
+}
+
+#register_form p label{
+    width:150px;
+}
+
+#register_form{
+    align:center;
+}
+
+.centered{
+    margin:auto;
+    width:50%;
+}
+
+.register{
+    margin-left:180px;
+}
